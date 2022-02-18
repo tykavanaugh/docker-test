@@ -1,3 +1,3 @@
 # Docker Test
 
-Testing out docker and stuff
+Deploying a genric app via a docker container- worked without issue
